@@ -1,5 +1,6 @@
 Para o projeto colaborativo no SENAI, as tecnologias utilizadas foram várias : 
-Java Script
-Github
-HTML
-style CSS
+Java Script = código utilizado
+Github = aplicativo principal
+HTML = base do código
+style CSS = estilização 
+
