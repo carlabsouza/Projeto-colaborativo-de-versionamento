@@ -1,3 +1,5 @@
 Nomes dos integrantes do projeto: 
-Carla Beatriz Santos de Souza - Responsável por criar o repoitório
+Carla Beatriz Souza - Responsável por criar o repositório, adicionar o arquivo readme e criar o arquivo equipe.txt
+Maria regina Vasconcelos - Responsável por criar o arquivo de funcionalidades
+Maria Clara Moreira - Responsável por criar o arquivo de tecnologias
 
