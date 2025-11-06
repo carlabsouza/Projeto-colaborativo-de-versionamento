@@ -1,0 +1,5 @@
+Funcionalidades do Projeto:
+1. Cadastro de usuários
+2. Login e autenticação
+3. Dashboard principal
+4. Configuração de perfil
