@@ -3,3 +3,4 @@ Funcionalidades do Projeto:
 2. Login e autenticação
 3. Dashboard principal
 4. Configuração de perfil
+5. Acessar dashboard
